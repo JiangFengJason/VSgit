@@ -29,9 +29,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="changeCard.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="radius.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
